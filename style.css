@@ -1,0 +1,90 @@
+
+
+.headerbackground {
+    background-image: url(./background.jpg);
+    margin: -10px;
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-size: 20px;
+    align-items: center;
+}
+
+header a {
+    color: gray;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.initials {
+    color: rgb(5, 5, 5);
+    text-decoration: none;
+    margin: 10px;
+}
+
+.Hi {
+    border-radius: 10px;
+    background-color: white;
+    color: navy;
+    padding: 10px 25px;
+    font-size: larger;
+    border: none;
+}
+
+.hire {
+    border-radius: 10px;
+    background-color: navy;
+    color: white;
+    padding: 10px 25px;
+    font-size: larger;
+    border: none;
+}
+
+main {
+    color: black;
+    display: flex;
+    padding: 70px 125px;
+    align-items: center;
+}
+
+.text {
+    display: inline;
+}
+.img {
+    border: 20px;
+    margin: 39px -124px
+}
+
+.share a {
+    color: black;
+    text-decoration: none;
+    margin: 0px 8px;
+}
+
+.sec1 {
+    background-color: rgb(5, 90, 174);
+    display: flex;
+    justify-content: center;
+    margin: -48px;
+}
+
+.me {
+    border-radius: 10px;
+    background-color: navy; 
+    color: white;
+    padding: 10px 25px;
+    border: none;
+}
+
+.ref  {
+    width: 360px;
+}
+
+section a {
+    color: gray;
+    text-decoration: none;
+    margin: 10px;
+}
